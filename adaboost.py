@@ -1,2 +1,2 @@
-sstrabajo en adaboost 
+ddsstrabajo en adaboost 
 trabajo en adaboost desde otro usuario
